@@ -1,4 +1,4 @@
-# Broadcom_AP6210_Wifi_Firmware
+# BPI Series WiFi Firmware
 
 Compatible with BPI M1-Plus/ M2/ M2Plus/ M3  WiFi Firmware
 
